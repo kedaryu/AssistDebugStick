@@ -8,4 +8,4 @@
 # Commands
 * /ads visualization <true/false> - プロパティを視覚化するかどうかを設定します。
 
-[ダウンロード]()
+[ダウンロード](https://github.com/kedaryu/AssistDebugStick/releases/download/v1.0/AssistDebugStick-1.0.jar)
